@@ -3,7 +3,6 @@
 #### This project is a static web application that replicates key features of the Indian Railways website. It allows users to navigate passenger services, check train-related information, view updates, and access official railway portals through external links.
 
 
-
 ### Technologies used
 
 - HTML5 – Structure of the web pages
