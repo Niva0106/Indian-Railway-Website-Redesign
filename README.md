@@ -39,11 +39,20 @@
 
 
 ![ir3](https://github.com/user-attachments/assets/b88a1117-021b-4b66-a8a1-29914bb127ae)
+![ir2](https://github.com/user-attachments/assets/86e2a32e-0354-40b5-8d4f-95084fdae28f)
+
+
 
 
 ### Demonstration
 
-"C:\Users\swath\OneDrive\Desktop\IR\Screen Recording 2026-01-04 153318.mp4"
+
+
+
+
+
+https://github.com/user-attachments/assets/bb5029aa-26b6-41ed-afba-0d607461ee17
+
 
 
 
