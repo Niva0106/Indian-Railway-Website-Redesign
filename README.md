@@ -34,6 +34,18 @@
 ### Images
 
 
+![ir1](https://github.com/user-attachments/assets/016569cf-86d7-4d67-962a-af79790138af)
+
+
+![ir2](https://github.com/user-attachments/assets/485ecdf5-5800-4798-82b9-ba47febe77ae)
+
+
+![ir3](https://github.com/user-attachments/assets/b88a1117-021b-4b66-a8a1-29914bb127ae)
+
+
+![ir3](https://github.com/user-attachments/assets/b96c1760-6e1e-48f9-850a-d334d9c6bd77)
+
+
  ### Project Scope
  
  - Frontend design and layout development
