@@ -1,6 +1,7 @@
 # Indian-Railway-Website-Redesign
 
-### A frontend-only Indian Railways informational and ticket assistance website developed using HTML, CSS, JavaScript, and Bootstrap.This project provides a user-friendly interface to explore railway services and seamlessly redirects users to the official Indian Railways / IRCTC website for real-time booking, cancellation, and enquiries.
+#### This project is a static web application that replicates key features of the Indian Railways website. It allows users to navigate passenger services, check train-related information, view updates, and access official railway portals through external links.
+
 
 ## TECHNOLOGIES USED
 
