@@ -37,13 +37,15 @@
 ![ir1](https://github.com/user-attachments/assets/016569cf-86d7-4d67-962a-af79790138af)
 
 
-![ir2](https://github.com/user-attachments/assets/485ecdf5-5800-4798-82b9-ba47febe77ae)
-
 
 ![ir3](https://github.com/user-attachments/assets/b88a1117-021b-4b66-a8a1-29914bb127ae)
 
 
-![ir4](https://github.com/user-attachments/assets/065e9359-2921-4cca-a41a-4fb3b8bca866)
+### Demonstration
+
+"C:\Users\swath\OneDrive\Desktop\IR\Screen Recording 2026-01-04 153318.mp4"
+
+
 
 
 
