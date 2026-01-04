@@ -25,6 +25,10 @@
 - External links ensure secure and authentic access to official railway services
 
  ### How to run
+ 
+ - Download the repository
+ - Open IndianRailway.html in any modern web browser
+ - Navigate through the website and use provided links to access official railway services
 
 
 ### Images
