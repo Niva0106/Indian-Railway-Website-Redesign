@@ -1,16 +1,18 @@
-# Indian-Railway-Website-Redesign
+# Indian Railway - Website Redesign
 
 #### This project is a static web application that replicates key features of the Indian Railways website. It allows users to navigate passenger services, check train-related information, view updates, and access official railway portals through external links.
 
 
-## TECHNOLOGIES USED
+
+### Technologies used
 
 - HTML5 – Structure of the web pages
 - CSS3 – Styling and layout design
 - Bootstrap 5 – Responsive design and UI components
 - JavaScript – Basic interactivity (date display, language selection, carousel)
 
-## FEATURES
+
+### Features
 
 - Responsive and attractive Indian Railways homepage
 - Passenger Services dropdown with direct links to:
@@ -23,10 +25,11 @@
 - Scrolling marquee for important headlines
 - External links ensure secure and authentic access to official railway services
 
- ## HOW TO RUN
+ ### How to run
 
 
-### IMAGE
+### Images
+
 
  ### Project Scope
  
@@ -35,7 +38,7 @@
  - Educational purpose only
  - No backend processing or database connectivity
 
-### FUTURE ENHANCEMENTS
+### Future Enhancements
 
 - Integration with backend APIs (if permitted)
 - Dynamic train search functionality
