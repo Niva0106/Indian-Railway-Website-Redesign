@@ -1,0 +1,214 @@
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recruitment</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+   
+<style>
+  button{
+    background-color: rgb(0, 0, 0);
+    font-size: x-small;
+    font-weight:bolder;
+    color: azure;
+   
+    border-radius: 5px;
+}
+.B{
+    background-color: rgb(241, 127, 50);
+    font-size: x-small;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    margin: 3px;
+    border-radius: 5px;
+}
+.B:hover{
+            background-color: #1f8a15 ;
+            color:antiquewhite;
+            font-size: 20px;
+            cursor: pointer;
+        }
+button:hover{
+            background-color: #a39f9f ;
+            color:antiquewhite;
+            font-size: 20px;
+            cursor: pointer;
+        }
+      h4{
+		  color:red;
+	  }
+	   h6{
+		  color:red;
+	  }
+    #title{
+    background: darkblue;
+    background:#2f3e46 ;
+      padding:2px;
+      }
+    nav{
+     box-shadow: 5px 20px 10px rgba(0, 0,0, 0.6);
+            display: inline-block;
+            font-size:55px;
+            padding:5px 10px;
+            border-radius: 5px;
+    }
+    nav:hover{
+           
+            color:white;
+            font-size: 20px;
+            cursor: pointer;
+    }
+    #navbarNav{
+        font-size: 25px;
+    }
+    #navbarNav a:link{
+        color: white;
+    }
+    .marquee {
+      width: 100%;
+      overflow: hidden;
+      white-space: nowrap;
+      box-sizing: border-box;
+    }
+
+    .marquee-text {
+      display: inline-block;
+      padding-left: 100%;
+      animation: marquee 10s linear infinite;
+    }
+    .f-heading{
+      font-size: 30px;
+      font-weight: bold;
+      text-align: left;
+    }
+    .foot{
+      font-size: 20px;
+      text-align: left;
+    }
+    #footer{
+      background-color: rgb(43, 123, 214) ;
+    }
+
+    @keyframes marquee {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-100%); }
+    }
+  </style>
+  <title>Document</title>
+</head>
+<body>
+  <script>
+      var today = new Date();
+      document.write(today)
+  </script>
+  
+  <label for="language">Choose language:</label>
+<select id="language" onchange="changeLanguage()">
+  <option value="en">English</option>
+  <option value="fr">हिन्दी</option>
+</select>
+
+<script>
+function changeLanguage() {
+  var lang = document.getElementById('language').value;
+  document.documentElement.lang = lang;
+}
+</script>
+ 
+  <!--Hero Section-->
+  <section class="text-dark text-center py-2 mt-2"  id="title">
+      <div class="container1">
+        <div class="row mt-2 p-1 ">
+                                <div class="col-lg-4 p-2">
+                                    <img src="Indian Railway.png"Profile" class="rounded-circle img-thumbnail mb-3" style="width: 150px; height: 150px; object-fit: cover;">
+                                </div>
+                                <div class="col-lg-4 p-2 text-white">
+                                    <h1 class="display-4">Indian Railway</h1>
+                                    <p class="lead">Lifeline to the nation</p>
+                                </div>
+                                <div class="col-lg-4">
+                                    <img src="sat-removebg-preview.png" class=" rounded" style="width: 200px; height: 200px; object-fit: cover;">
+                                </div>
+          </div>
+      </div>
+  </section>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+
+  <!--Navigation-->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-white">
+        <div class="container">
+                <a class="navbar-brand" href="#"></a>
+                <button class="navbar-toggler" type="button"  data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                        <span class="navbar-toggler-icon"></span>
+                </button>
+                <button><a href="IndianRailway(Final).html"><-- HOME</a></button> 
+        </div>
+  </nav><br>
+ <div class="marquee">
+  <span class="marquee-text"><a href="https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281">CLICK HERE TO READ MORE</a></span><br><br>
+  </div>
+
+</style>
+</head>
+<body>
+<h1><CENTER>USER LOGIN PAGE</CENTER></h1>
+
+
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  
+     <div class="mb-3 ps-3">
+  <label for="exampleFormControlInput1" class="form-label"><b>USER NAME </b></label>
+  <input type="UNAME" class="form-control" id="exampleFormControlInput1" placeholder="Enter user name">
+</div>
+<div class="mb-3 ps-3">
+  <label for="exampleFormControlInput1" class="form-label"><b>EMAIL ID</b></label>
+  <input type="UNAME" class="form-control" id="exampleFormControlInput1" placeholder="Enter your mail address">
+</div>
+
+      <div class="mb-3 ps-3">
+  <label for="exampleFormControlInput1" class="form-label"><b>   SECURITY</b></label>
+  <input type="UNAME" class="form-control" id="exampleFormControlInput1" placeholder="Enter password">
+</div>
+
+<div class="form-check m-3">
+  <input class="form-check-input" type="checkbox" value="" id="checkDefault">
+  <label class="form-check-label" for="checkDefault">
+   I am not a Robot.<BR>
+  </label>
+</div>
+<button class="B ms-3">LOGIN</a></button> <br>
+<button class="B ms-3">New user signup here</a></button> <br><br>
+
+<section class="text-dark text-center "  id="footer">
+      <div class="container1 ps-5">
+        <div class="row mt-2 p-1 ">
+                                <div class="col-lg-3 p-2 text-white">
+                                    <p class="f-heading">About US</p>
+                                    <p class="foot">Railway Recruitment Board,Thiruvananthapuram, was constituted in March 1983 under the name of Railway Service Commission, Thiruvananthapuram.</p>
+                                </div>
+                                <div class="col-lg-3 p-2 text-white">
+                                    <p class="f-heading">Quick Links</p>
+                                    <p class="foot">Employment News<br>RRCB<br>RTI</p>
+                                </div>
+                                <div class="col-lg-3 p-2 text-white">
+                                    <p class="f-heading">Policies</p>
+                                    <p class="foot">Accessibility Policy<br>Privacy Policies<br>Terms & Conditions</p>
+                                </div>
+                                <div class="col-lg-3 p-2 text-white">
+                                    <p class="f-heading">Contact US</p>
+                                    <p class="foot"><B>☎ Office:</B> 0471-2323357<br><B>✉️ Email:</B> office.rrbtvc@railnet.gov.in</p>
+                                </div>
+                                
+          </div>
+      </div>
+  </section>
+
+               <footer class="text-center text-white py-3 bg-dark">
+    <p>&copy; Copyright © 2017, Centre For Railway Information Systems.</p>
+  </footer>
+ 
+
+</body>
+</html>
